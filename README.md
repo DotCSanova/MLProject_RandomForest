@@ -76,3 +76,10 @@ Efficient space management and energy optimization require reliable detection of
 - Test other models (e.g., Gradient Boosting, XGBoost)
 - Add time-based features or sensor fusion techniques
 - Deploy as an API or integrate with smart building systems
+
+---
+
+## 👤 Author
+
+**Alberto López Casanova**  
+[LinkedIn](https://www.linkedin.com/in/alcasanova99/) • [GitHub](https://github.com/DotCSanova) • [Email](mailto:albertolopezcasanova@icloud.com)
